@@ -31,3 +31,5 @@ name_two = input("Enter a second name: ")
 place_one = input("Enter a place: ")
 
 adjective_one = input("Enter an adjective: ")
+
+place_two = input("Enter a second place: ")
