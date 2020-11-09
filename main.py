@@ -22,4 +22,3 @@ Period/Core: 6
 #(adjetive) (food). (name 2) exclaimed, "This was so
 #(adjetive) !"
 
-print("something")
