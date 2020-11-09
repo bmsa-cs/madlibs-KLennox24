@@ -27,3 +27,5 @@ print("Let's play Silly Sentences!")
 name_one = input("Enter a name: ")
 
 name_two = input("Enter a second name: ")
+
+place_one = input("Enter a place: ")
