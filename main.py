@@ -23,3 +23,5 @@ Period/Core: 6
 #(adjetive_five) !"
 
 print("Let's play Silly Sentences!")
+
+name_one = input("Enter a name: ")
