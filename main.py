@@ -6,19 +6,19 @@ Period/Core: 6
 
 """
 
-#Template: (name) is going to (place) with (name 2).
-#(place) is almost like a (adjetive) version of
-#(place 2)
+#Template: (name_one) is going to (place_one) with (name_two)
+#(place_one) is almost like a (adjetive_one) version of
+#(place_two)
 
-#(name 1) (action ending in ed) up to (place) to take a (adjetive)
-#picture. Suddenly, (name 2) spotted a (animal).
-#(name 2) said, "(name 1) lets go pet that (animal)!"
+#(name_one) (action_ending_in_ed) up to (place_one) to take a (adjetive_two)
+#picture. Suddenly, (name_two) spotted a (animal).
+#(name_two) said, "(name_one) lets go pet that (animal)!"
 
-#after (name 1) and (name 2) were done petting the animal,
-#(name 1) noticed a (adjetive) cafe. (name 1) suggested,
-#"Lets go over there!" (name 1) and (name 2) (action ending in ed)
+#after (name_one) and (name_two) were done petting the animal,
+#(name_one) noticed a (adjetive_three) cafe. (name_one) suggested,
+#"Lets go over there!" (name_one) and (name_two) (action_ ending_ed)
 
-#(name 1) and (name 2) reached the cafe, and ate some
-#(adjetive) (food). (name 2) exclaimed, "This was so
-#(adjetive) !"
+#(name_one) and (name_two) reached the cafe, and ate some
+#(adjetive_four) (food). (name_two) exclaimed, "This was so
+#(adjetive_five) !"
 
