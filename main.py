@@ -34,7 +34,7 @@ verb_two = input("Enter a past-tense verb: ")
 
 adjective_four = input("Enter an adjective: ")
 
-food = input("Enter a food: ")
+food = input("Enter a plural food: ")
 
 adjective_five = input("Enter an adjective: ")
 
@@ -42,6 +42,6 @@ print(f"\n{name_one} is going to {place_one} with {name_two}.\n\"{place_one} is 
 
 print( (name_one) + " " + (verb_one) + " up to " + (place_one) + " to take a " + (adjective_two) + " picture.\nSuddenly, " + (name_two) + " spotted a " + (animal) + ".\n" + (name_two) + " said, \"" + (name_one) + " let's go pet that " + (animal) + "!\"")
 
-print(f"After {name_one} and {name_two} were done petting the animal, {name_one} noticed a {adjective_three} cafe. {name_one} suggested, \"Let's go over there!\" {name_one} and {name_two} {verb_two} to the {adjective_three} cafe.")
+print(f"After {name_one} and {name_two} were done petting the animal, {name_one} noticed a {adjective_three} cafe.\n{name_one} suggested, \"Let's go over there!\"\n{name_one} and {name_two} {verb_two} to the {adjective_three} cafe.")
 
-print(f"{name_one} and {name_two} reached the cafe, and ate some {adjective_four} {food}. {name_two} exclaimed, \"This was so {adjective_five}!\"")
+print(f"{name_one} and {name_two} reached the cafe, and ate some {adjective_four} {food}.\n{name_two} exclaimed, \"This was so {adjective_five}!\"")
