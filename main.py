@@ -39,3 +39,5 @@ verb_one = input("Enter a verb ending in 'ed': ")
 adjective_two = input("Enter an adjective: ")
 
 animal = input("Enter an animal: ")
+
+adjective_three = input("Enter an adjective: ")
