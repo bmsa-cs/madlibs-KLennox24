@@ -20,7 +20,7 @@ Period/Core: 6
 
 #(name_one) and (name_two) reached the cafe, and ate some
 #(adjective_four) (food). (name_two) exclaimed, "This was so
-#(adjective_five) !"
+#(adjective_five)!"
 
 print("Let's play Silly Sentences!")
 
@@ -43,3 +43,5 @@ animal = input("Enter an animal: ")
 adjective_three = input("Enter an adjective: ")
 
 verb_two = input("Enter a past-tense verb: ")
+
+adjective_four = input("Enter an adjective: ")
