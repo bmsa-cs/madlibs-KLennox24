@@ -10,7 +10,7 @@ Period/Core: 6
 #"(place_one) is almost like a (adjective_one) version of
 #(place_two)" mentions (name_one).
 
-#(name_one) (verb_ending_in_ed) up to (place_one) to take a (adjective_two)
+#(name_one) (verb_one) up to (place_one) to take a (adjective_two)
 #picture. Suddenly, (name_two) spotted a (animal).
 #(name_two) said, "(name_one) lets go pet that (animal)!"
 
@@ -33,3 +33,5 @@ place_one = input("Enter a place: ")
 adjective_one = input("Enter an adjective: ")
 
 place_two = input("Enter a second place: ")
+
+verb_one = input("Enter a verb ending in 'ed': ")
