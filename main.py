@@ -16,11 +16,11 @@ Period/Core: 6
 
 #after (name_one) and (name_two) were done petting the animal,
 #(name_one) noticed a (adjective_three) cafe. (name_one) suggested,
-#"Lets go over there!" (name_one) and (name_two) (verb_ ending_ed) to the (adjective_four) cafe.
+#"Lets go over there!" (name_one) and (name_two) (verb_two) to the (adjective_three) cafe.
 
 #(name_one) and (name_two) reached the cafe, and ate some
-#(adjective_five) (food). (name_two) exclaimed, "This was so
-#(adjective_six) !"
+#(adjective_four) (food). (name_two) exclaimed, "This was so
+#(adjective_five) !"
 
 print("Let's play Silly Sentences!")
 
@@ -41,3 +41,5 @@ adjective_two = input("Enter an adjective: ")
 animal = input("Enter an animal: ")
 
 adjective_three = input("Enter an adjective: ")
+
+verb_two = input("Enter a past-tense verb: ")
