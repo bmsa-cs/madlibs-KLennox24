@@ -47,3 +47,5 @@ verb_two = input("Enter a past-tense verb: ")
 adjective_four = input("Enter an adjective: ")
 
 food = input("Enter a food: ")
+
+adjective_five = input("Enter an adjective: ")
