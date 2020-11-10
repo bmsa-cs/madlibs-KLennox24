@@ -6,14 +6,6 @@ Period/Core: 6
 
 """
 
-#(name_one) is going to (place_one) with (name_two).
-#"(place_one) is almost like a (adjective_one) version of
-#(place_two)" mentions (name_one).
-
-#(name_one) (verb_one) up to (place_one) to take a (adjective_two)
-#picture. Suddenly, (name_two) spotted a (animal).
-#(name_two) said, "(name_one) lets go pet that (animal)!"
-
 #after (name_one) and (name_two) were done petting the animal,
 #(name_one) noticed a (adjective_three) cafe. (name_one) suggested,
 #"Lets go over there!" (name_one) and (name_two) (verb_two) to the (adjective_three) cafe.
@@ -53,3 +45,5 @@ adjective_five = input("Enter an adjective: ")
 print(f"\n{name_one} is going to {place_one} with {name_two}.\n\"{place_one} is almost like a {adjective_one} version of {place_two},\" mentions {name_one}.")
 
 print( (name_one) + " " + (verb_one) + " up to " + (place_one) + " to take a " + (adjective_two) + " picture.\nSuddenly, " + (name_two) + " spotted a " + (animal) + ".\n" + (name_two) + " said, \"" + (name_one) + " let's go pet that " + (animal) + "!\"")
+
+print(f"After {name_one} and {name_two} were done petting the animal, {name_one} noticed a {adjective_three} cafe. {name_one} suggested, \"Let's go over there!\" {name_one} and {name_two} {verb_two} to the {adjective_three} cafe.")
