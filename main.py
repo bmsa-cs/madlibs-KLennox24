@@ -50,4 +50,6 @@ food = input("Enter a food: ")
 
 adjective_five = input("Enter an adjective: ")
 
-print(f"{name_one} is going to {place_one} with {name_two}.\n\"{place_one} is almost like a {adjective_one} version of {place_two},\" mentions {name_one}.")
+print(f"\n{name_one} is going to {place_one} with {name_two}.\n\"{place_one} is almost like a {adjective_one} version of {place_two},\" mentions {name_one}.")
+
+print( (name_one) + " " + (verb_one) + " up to " + (place_one) + " to take a " + (adjective_two) + " picture.\nSuddenly, " + (name_two) + " spotted a " + (animal) + ".\n" + (name_two) + " said, \"" + (name_one) + " let's go pet that " + (animal) + "!\"")
