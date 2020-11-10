@@ -49,3 +49,5 @@ adjective_four = input("Enter an adjective: ")
 food = input("Enter a food: ")
 
 adjective_five = input("Enter an adjective: ")
+
+print(f"{name_one} is going to {place_one} with {name_two}.\n\"{place_one} is almost like a {adjective_one} version of {place_two},\" mentions {name_one}.")
