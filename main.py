@@ -35,3 +35,5 @@ adjective_one = input("Enter an adjective: ")
 place_two = input("Enter a second place: ")
 
 verb_one = input("Enter a verb ending in 'ed': ")
+
+adjective_two = input("Enter an adjective: ")
